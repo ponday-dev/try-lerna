@@ -19,4 +19,7 @@ lerna create components
 
 # create entry project
 lerna create examples
+
+# add dependencies
+lerna add components --scope examples
 ```

@@ -22,5 +22,8 @@
   },
   "bugs": {
     "url": "https://github.com/ponday-dev/try-lerna/issues"
+  },
+  "dependencies": {
+    "components": "^0.0.0"
   }
 }
