@@ -5,14 +5,18 @@ lernaやってみた
 ## log
 
 ```bash
+# global install lerna
+npm i -g lerna
+
+# create and move project folder
 mkdir try-lerna && cd try-lerna
 
 # generate project
-npx lerna init
+lerna init
 
 # create imported project
-npx lerna create components
+lerna create components
 
 # create entry project
-npx lerna create examples
+lerna create examples
 ```
