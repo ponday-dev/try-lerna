@@ -1,0 +1,26 @@
+{
+  "name": "components",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "ponday-dev <ponday.dev+github@gmail.com>",
+  "homepage": "https://github.com/ponday-dev/try-lerna#readme",
+  "license": "ISC",
+  "main": "lib/components.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ponday-dev/try-lerna.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/ponday-dev/try-lerna/issues"
+  }
+}
